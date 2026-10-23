@@ -1,4 +1,4 @@
-# Kauã De Freitas
+# 👨‍💻 Kauã De Freitas
 
 **'Desenvolvedor em Evolução'
 
@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, inovação e resolução de problemas através do
          <img alt="total stars" title="Total stars on GitHub" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/github-stars.svg"/></a>
    </p>
 
-###  Linguagens e Tecnologias
+### 🤖Linguagens e Tecnologias
 
 
 <img 
@@ -69,7 +69,7 @@ Sou apaixonado por tecnologia, inovação e resolução de problemas através do
 <br/>
 <br/>
 
-###  Estatísticas
+### 📊 Estatísticas
 
 
 <img
