@@ -6,7 +6,7 @@ Me chamo Kauã De Freitas Carvalho, tenho 21 anos e sou natural de Barra Mansa -
 Conclui o ensino médio. Atualmente, estou cursando o curso de Desenvolvimento de Sistemas  no Senai.
 Sou apaixonado por tecnologia, inovação e resolução de problemas através do código.
 
-   <p align="left">
+<p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/youtube-subscribers.svg"/></a>
       <a href="https://www.youtube.com/c/fknight">
@@ -18,7 +18,6 @@ Sou apaixonado por tecnologia, inovação e resolução de problemas através do
    </p>
 
 ### 🤖Linguagens e Tecnologias
-
 
 <img 
     align="left"
