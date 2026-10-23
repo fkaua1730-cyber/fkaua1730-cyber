@@ -1,6 +1,7 @@
 # 👨‍💻 Kauã De Freitas
 
 **`Desenvolvedor em Evolução`**
+
 Me chamo Kauã De Freitas Carvalho, tenho 21 anos e sou natural de Barra Mansa - RJ. Conclui o ensino médio. Atualmente, estou cursando o curso de Desenvolvimento de Sistemas  no Senai.
 Sou apaixonado por tecnologia, inovação e resolução de problemas através do código e compartilho meu conhecimento através do meu canal no YouTube "[Kauã](https://www.youtube.com/@larissakich)".
 
