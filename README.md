@@ -6,7 +6,7 @@ Me chamo Kauã De Freitas Carvalho, tenho 21 anos e sou natural de Barra Mansa -
 Sou apaixonado por tecnologia, inovação e resolução de problemas através do código e compartilho meu conhecimento através do meu canal no YouTube "[Kauã De Freitas Carvalho](https://www.youtube.com/@KauãDeFreitasCarvalho)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.youtube.com/@KauãDeFreitasCarvalho?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -24,14 +24,14 @@ Sou apaixonado por tecnologia, inovação e resolução de problemas através do
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Kauã?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/fkaua1730-cyber?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Kauã?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Kauã?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/fkaua1730-cyber?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -100,14 +100,14 @@ Sou apaixonado por tecnologia, inovação e resolução de problemas através do
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?/username=Kauã&showmícios=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?/username=fkaua1730-cyber&showmícios=true&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauã&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkaua1730-cyber&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
   />
 
 </p>
